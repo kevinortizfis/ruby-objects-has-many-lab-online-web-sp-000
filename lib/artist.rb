@@ -7,6 +7,6 @@ class Artist
   end
 
   def songs
-    songs.all
+    songs
   end
 end
